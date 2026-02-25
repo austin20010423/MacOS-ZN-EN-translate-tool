@@ -62,13 +62,4 @@
 - 若你要改快捷鍵，請修改：
   - `TranslateTool/TranslateToolApp.swift` 內 `RegisterEventHotKey` 設定。
 
-## Publish to GitHub (Quick Steps)
-
-```bash
-git add .
-git commit -m "Add README and improve floating translator workflow"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
 
